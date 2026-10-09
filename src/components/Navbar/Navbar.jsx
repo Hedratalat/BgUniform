@@ -18,6 +18,7 @@ const NAV_ITEMS = [
   { key: "home", to: "/" },
   { key: "about", to: "/about" },
   { key: "products", to: "/products" },
+  { key: "customize", to: "/customize" },
   { key: "materials", to: "/materials" },
   { key: "myOrders", to: "/myorders" },
   { key: "contact", to: "/contact" },

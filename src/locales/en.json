@@ -3,6 +3,7 @@
     "home": "Home",
     "about": "About",
     "products": "Products",
+    "customize": "Customize",
     "materials": "Materials",
     "myOrders": "My Orders",
     "contact": "Contact",
@@ -267,6 +268,44 @@
       "vodafoneRef": "Please enter a valid reference number.",
       "unavailable": "\"{{name}}\" is no longer available. Please remove it from your cart.",
       "generic": "Something went wrong while placing your order. Please try again."
+    }
+  },
+  "customize": {
+    "title": "Design Your Uniform",
+    "hint": "Drag to rotate, click a garment to edit it",
+    "style": "Style",
+    "color": "Color",
+    "customColor": "Custom color",
+    "addToCart": "Add to cart",
+    "wear": "Wear",
+    "takeOff": "Remove",
+    "parts": {
+      "shirt": "T-shirt",
+      "pants": "Pants",
+      "coverall": "Coverall",
+      "suit": "Suit",
+      "jacket": "Jacket"
+    },
+    "variants": {
+      "polo": "Polo",
+      "round": "Round neck",
+      "classic": "Classic",
+      "cargo": "Cargo",
+      "zip": "Zip",
+      "button": "Button",
+      "single": "Single-breasted",
+      "double": "Double-breasted",
+      "bomber": "Bomber"
+    },
+    "colors": {
+      "navy": "Navy",
+      "gold": "Gold",
+      "white": "White",
+      "black": "Black",
+      "gray": "Gray",
+      "red": "Red",
+      "green": "Green",
+      "sky": "Sky blue"
     }
   }
 }

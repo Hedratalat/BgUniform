@@ -17,6 +17,7 @@ import Favorites from "./pages/Favorites";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import OrdersDashboard from "./pages/Ordersdashboard";
+import Customize from "./pages/Customize";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           <Route path="materials" element={<Materials />} />
           <Route path="/about" element={<About />} />
           <Route path="/products" element={<Products />} />
+          <Route path="/customize" element={<Customize />} />
           <Route path="/favorites" element={<Favorites />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/checkout" element={<Checkout />} />
